@@ -1,4 +1,4 @@
-<img src="img/logo.png" style="width: 50%; background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
+<img src="img/logo.png" style="max-width: 50%; background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
 
 # Materi Pembelajaran
 
@@ -25,9 +25,9 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 
 Semua materi pembelajaran di Zimera ini mempunyai lisensi **Creative Commons Attribution-ShareAlike 4.0 International**.
 
-![CC-BY-SA 4.0 International](img/cc-by-sa.png) \
+![CC-BY-SA 4.0 International](img/cc-by-sa.png)
 
-* [Lisensi dalam Bahasa Indonesia](https://creativecommons.org/licenses/by-sa/4.0/deed.id#:~:text=Atribusi%2DBerbagiSerupa%204.0%20Internasional%20(CC,Penyangkalan.).
+* [Lisensi dalam Bahasa Indonesia](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 * [Lisensi dalam Bahasa Inggris](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 Secara umum, penggunaan lisensi ini mempunyai implikasi bahwa pengguna materi: 
@@ -41,9 +41,13 @@ Materi yang terdapat pada sekolah ini awalnya berada pada Praxis Academy dan dik
 ### Atribusi
 
 **Dr. Bambang Purnomosidi D. P.**
+```
 Zimera Systems
 Dusun Medelan, Umbulmartani, Ngemplak
 Sleman, DIY
+```
+
 https://www.google.com/maps/place/Zimera+Systems/@-7.6975303,110.43921,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a5d7cc40e8871:0x2d44da15f0b3781e!8m2!3d-7.6975303!4d110.4413987
+
 zimera-systems@gmail.com
 
