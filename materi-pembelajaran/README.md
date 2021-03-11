@@ -1,4 +1,4 @@
-![Zimera Systems](images/logo.png)
+![Zimera Systems](img/logo.png)
 
 # Materi Pembelajaran
 
