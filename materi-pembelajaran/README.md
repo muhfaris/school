@@ -14,11 +14,11 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 
 ## Keahlian Spesifik
 
-1. [Enterprise Full Stack Developer](enterprise-full-stack/)
-2. [Enterprise Python Developer](enterprise-python/)
-3. [Enterprise Front End Developer](enterprise-front-end/)
+1. [Java - Full Stack Developer](java-full-stack/)
+2. [Python Developer](python-developer/)
+3. [Front End Developer](ront-end/)
 4. [Mobile Application Developer](mobile-app-dev/)
-5. [Node.js Programming](node.js/)
+5. [JavaScript - Node.js Programming](javascript-node.js/)
 6. [Python Programming for Artificial Intelligence](python-ai/)
 
 ## Lisensi
