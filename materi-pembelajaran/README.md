@@ -40,14 +40,9 @@ Materi yang terdapat pada sekolah ini awalnya berada pada Praxis Academy dan dik
 
 ### Atribusi
 
-**Dr. Bambang Purnomosidi D. P.**
-```
-Zimera Systems
-Dusun Medelan, Umbulmartani, Ngemplak
-Sleman, DIY
-```
-
-https://www.google.com/maps/place/Zimera+Systems/@-7.6975303,110.43921,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a5d7cc40e8871:0x2d44da15f0b3781e!8m2!3d-7.6975303!4d110.4413987
-
-zimera-systems@gmail.com
-
+**Dr. Bambang Purnomosidi D. P.**  
+**_Zimera Systems_**  
+Dusun Medelan, Umbulmartani, Ngemplak  
+Sleman, DIY  
+https://www.google.com/maps/place/Zimera+Systems/@-7.6975303,110.43921,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a5d7cc40e8871:0x2d44da15f0b3781e!8m2!3d-7.6975303!4d110.4413987  
+E-mail: zimera-systems@gmail.com
