@@ -10,4 +10,8 @@ Materi:
   * [Kode sumber dan data](src/).
   * [Link Video](https://www.youtube.com/watch?v=B0C80Njr9Zs):
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/B0C80Njr9Zs" frameborder="0" allowfullscreen></iframe>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=B0C80Njr9Zs">
+         <img src="https://img.youtube.com/vi/B0C80Njr9Zs/k0.jpg" style="width:100%;">
+      </a>
+</div>
