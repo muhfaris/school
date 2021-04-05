@@ -12,6 +12,6 @@ Materi:
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=B0C80Njr9Zs">
-         <img src="https://img.youtube.com/vi/B0C80Njr9Zs/k0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/B0C80Njr9Zs/0.jpg" style="width:100%;">
       </a>
 </div>
