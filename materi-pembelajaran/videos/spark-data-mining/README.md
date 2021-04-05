@@ -1,0 +1,13 @@
+# Apache Spark untuk Data Mining
+
+Materi pembelajaran ini membahas penggunakan Apache Spark (dan beberapa pustaka maupun framework lainnya) untuk melaksanakan berbagai *tasks* Data Mining. Secara spesifik, materi yang digunakan disini adalah materi manual (sisi algoritma serta pengetahuan matematika / statistika) serta pemrograman menggunakan Python - PySpark.
+
+1. Mengenal Data Mining dan Fasilitas Apache Spark untuk Data Mining
+
+Materi:
+
+  * [Slide](01--mengenal-data-mining.pdf).
+  * [Kode sumber dan data](src/).
+  * [Link Video](https://www.youtube.com/watch?v=B0C80Njr9Zs):
+
+<iframe width="500" height="300" src="https://www.youtube.com/embed/B0C80Njr9Zs" frameborder="0" allowfullscreen></iframe>

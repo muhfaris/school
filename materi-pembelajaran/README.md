@@ -21,6 +21,10 @@ Semua pembelajar di sekolah ini akan memulai dari kemampuan dasar terlebih dahul
 5. [JavaScript - Node.js Programming](javascript-node.js/)
 6. [Python Programming for Artificial Intelligence](python-ai/)
 
+## Materi Video
+
+Beberapa materi berupa video akan diletakkan pada [Video Pembelajaran](videos/).
+
 ## Lisensi
 
 Semua materi pembelajaran di Zimera ini mempunyai lisensi **Creative Commons Attribution-ShareAlike 4.0 International**.
